@@ -1,19 +1,5 @@
-# fxserver-esx_barbershop
-FXServer ESX Barber Shop
+# fxserver-esx_plasticsurgery
 
-[REQUIREMENTS]
+Com A unica Diferenca Que Agora Aparece Blips No Mapa A Apontar A Localizao Do Sitio Originalmente nao tem.
 
-- esx_skin => https://github.com/FXServer-ESX/fxserver-esx_skin
-
-[INSTALLATION]
-
-1) CD in your resources/[esx] folder
-2) Clone the repository
-```
-git clone https://github.com/FXServer-ESX/fxserver-esx_barbershop esx_barbershop
-```
-3) Add this in your server.cfg :
-
-```
-start esx_barbershop
-```
+Todos Os Creditos Do Seu Criador.
